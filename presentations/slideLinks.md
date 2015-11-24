@@ -4,3 +4,4 @@ Caio: http://www.slideshare.net/caiomsouza/pcm15-how-to-monitor-the-use-and-perf
 
 Sebastien (Kylin): https://www.inovex.de/fileadmin/files/Vortraege/2015/big-data-mdx-with-mondrian-and-apache-kylin-sebastien-jelsch-pcm-11-2015.pdf
 
+Marcello: http://onca.se/tapaPCM15
